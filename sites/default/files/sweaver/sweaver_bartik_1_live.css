@@ -1,11 +1,13 @@
 a span {
-  font-family: 'Comic Sans MS',Cursive;
+  font-family: Helvetica,Arial,Sans-Serif;
   font-style: normal;
-  background-color: #000000;
+  background-color: #5aabd6;
   border-top-style: solid;
   border-right-style: solid;
   border-bottom-style: solid;
   border-left-style: solid;
+  text-decoration: none;
+  font-weight: normal;
 }
 
 .section h1 {
