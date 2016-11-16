@@ -1,0 +1,35 @@
+a span {
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: normal;
+  background-color: #000000;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
+.section h1 {
+  text-align: center;
+}
+
+#header .section {
+  color: #ffffff;
+  background-color: #ff75ff;
+  background-image: url(/sites/default/files/sweaver/sweaver_image_5.jpeg);
+}
+
+a img {
+  background-image: url(/sites/default/files/sweaver/sweaver_image_5.jpeg);
+  background-position: 0% 0%;
+  background-color: #5e1f5e;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  font-family: 'Arial Black',Sans-Serif;
+}
+
+#logo img {
+  background-image: url(/sites/default/files/sweaver/sweaver_image_2.gif);
+}
+
